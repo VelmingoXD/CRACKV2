@@ -1,4 +1,4 @@
-# Cara menjalani Script
+# Cara Menjalani SC
 
 $ git clone https://github.com/VelmingoXD/CRACKV2
 
